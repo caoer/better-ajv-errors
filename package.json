@@ -1,8 +1,8 @@
 {
-  "name": "@zitao/better-ajv-errors",
-  "version": "0.7.0",
+  "name": "@zitao/ajv7-errors",
+  "version": "0.7.1",
   "description": "JSON Schema validation for Human",
-  "repository": "atlassian/better-ajv-errors",
+  "repository": "caoer/better-ajv-errors",
   "main": "index.js",
   "keywords": [
     "json-schema",
