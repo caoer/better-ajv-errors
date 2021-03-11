@@ -1,5 +1,5 @@
 {
-  "name": "better-ajv-errors",
+  "name": "@zitao/better-ajv-errors",
   "version": "0.7.0",
   "description": "JSON Schema validation for Human",
   "repository": "atlassian/better-ajv-errors",
@@ -68,7 +68,7 @@
     "svg-term-cli": "^2.1.1"
   },
   "peerDependencies": {
-    "ajv": "4.11.8 - 6"
+    "ajv": "4.11.8 - 7"
   },
   "jest": {
     "testMatch": [
